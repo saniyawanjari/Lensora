@@ -1,65 +1,67 @@
-Lensora – AI Powered Smart Shopping Platform
+# 🚀 Lensora – AI Powered Smart Shopping Platform
 
-Lensora is an AI-powered smart shopping and recommendation platform developed as a hackathon project. The platform focuses on improving the user shopping experience through intelligent recommendations, chatbot assistance, and voice bot integration.
+Lensora is an AI-powered smart shopping and recommendation platform developed as a hackathon project. The platform focuses on improving the shopping experience through intelligent recommendations, chatbot assistance, and voice bot integration.
 
-Features
+---
 
-* Smart product recommendation system
-* AI chatbot integration
-* Voice bot support
-* Responsive user interface
-* Admin and backend management
-* Real-time interaction features
+# ✨ Features
 
-Tech Stack
+- 🛍️ Smart product recommendation system
+- 🤖 AI chatbot integration
+- 🎙️ Voice bot support
+- 📱 Responsive user interface
+- ⚙️ Admin and backend management
+- 🔄 Real-time interaction features
 
-Frontend
+---
 
-* React.js
-* HTML
-* CSS
-* JavaScript
+# 🛠️ Tech Stack
 
-Backend
+## Frontend
+- React.js
+- HTML
+- CSS
+- JavaScript
 
-* Node.js
-* Express.js
+## Backend
+- Node.js
+- Express.js
 
-Database
+## Database
+- MongoDB
 
-* MongoDB
+## AI / Voice Bot
+- Python
 
-AI / Voice Bot
+---
 
-* Python
+# 📂 Project Structure
 
-Project Structure
+bash public/ src/ lensora-backend/ voice_bot/ 
 
-public/
-src/
-lensora-backend/
-voice_bot/
+---
 
-Installation
+# ⚡ Installation
 
-Frontend
+## Frontend
 
-npm install
-npm start
+bash npm install npm start 
 
-Backend
+## Backend
 
-cd lensora-backend
-npm install
-node server.js
+bash cd lensora-backend npm install node server.js 
 
-Future Improvements
+---
 
-* Advanced AI recommendations
-* Enhanced voice interaction
-* Payment gateway integration
-* Improved UI/UX experience
+# 🔮 Future Improvements
 
-Team
+- Advanced AI recommendations
+- Enhanced voice interaction
+- Payment gateway integration
+- Improved UI/UX experience
 
-Developed during a hackathon as a collaborative project focused on innovation, AI integration, and practical problem solving.
+---
+
+# 👥 Team
+
+Developed during a hackathon as a collaborative project focused on innovation, AI integration, and practical problem solvi
