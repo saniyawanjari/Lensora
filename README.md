@@ -8,7 +8,7 @@ Lensora is an AI-powered smart shopping and recommendation platform developed as
 
 - 🛍️ Smart product recommendation system
 - 🤖 AI chatbot integration
-- 🎙️ Voice bot support
+- 🎙️ Voice bot support (English & Hindi)
 - 📱 Responsive user interface
 - ⚙️ Admin and backend management
 - 🔄 Real-time interaction features
