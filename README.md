@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+Lensora – AI Powered Smart Shopping Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Lensora is an AI-powered smart shopping and recommendation platform developed as a hackathon project. The platform focuses on improving the user shopping experience through intelligent recommendations, chatbot assistance, and voice bot integration.
 
-## Available Scripts
+Features
 
-In the project directory, you can run:
+* Smart product recommendation system
+* AI chatbot integration
+* Voice bot support
+* Responsive user interface
+* Admin and backend management
+* Real-time interaction features
 
-### `npm start`
+Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Frontend
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* React.js
+* HTML
+* CSS
+* JavaScript
 
-### `npm test`
+Backend
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Node.js
+* Express.js
 
-### `npm run build`
+Database
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* MongoDB
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+AI / Voice Bot
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* Python
 
-### `npm run eject`
+Project Structure
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+public/
+src/
+lensora-backend/
+voice_bot/
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Installation
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Frontend
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+npm install
+npm start
 
-## Learn More
+Backend
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+cd lensora-backend
+npm install
+node server.js
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Future Improvements
 
-### Code Splitting
+* Advanced AI recommendations
+* Enhanced voice interaction
+* Payment gateway integration
+* Improved UI/UX experience
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Team
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Developed during a hackathon as a collaborative project focused on innovation, AI integration, and practical problem solving.
