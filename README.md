@@ -64,4 +64,4 @@ bash cd lensora-backend npm install node server.js
 
 # 👥 Team
 
-Developed during a hackathon as a collaborative project focused on innovation, AI integration, and practical problem solvi
+Developed during a hackathon as a collaborative project focused on innovation, AI integration, and practical problem solving.
