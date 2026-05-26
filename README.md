@@ -35,24 +35,6 @@ Lensora is an AI-powered smart shopping and recommendation platform developed as
 
 ---
 
-# 📂 Project Structure
-
-bash public/ src/ lensora-backend/ voice_bot/ 
-
----
-
-# ⚡ Installation
-
-## Frontend
-
-bash npm install npm start 
-
-## Backend
-
-bash cd lensora-backend npm install node server.js 
-
----
-
 # 🔮 Future Improvements
 
 - Advanced AI recommendations
