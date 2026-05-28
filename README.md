@@ -1,4 +1,7 @@
-Overview
+# Lensora 👓🤖
+AI Powered Conversational Commerce Platform
+
+## 📌 Overview
 
 Lensora is an AI-powered conversational commerce platform developed during a hackathon to demonstrate how intelligent virtual assistants can transform online shopping experiences.
 
@@ -8,10 +11,9 @@ The platform combines ecommerce functionality with conversational AI, voice inte
 
 ⸻
 
-✨ Key Features
+# ✨ Key Features
 
-🤖 AI Conversational Assistant
-
+## 🤖 AI Conversational Assistant
 * Intelligent chatbot integrated directly into the shopping platform
 * Real-time conversational interaction
 * Context-aware responses
@@ -20,8 +22,7 @@ The platform combines ecommerce functionality with conversational AI, voice inte
 
 ⸻
 
-🎙️ Voice Assistant Support
-
+## 🎙️ Voice Assistant Support
 * Voice input recognition
 * AI-generated voice responses
 * Hands-free interaction experience
@@ -29,16 +30,14 @@ The platform combines ecommerce functionality with conversational AI, voice inte
 
 ⸻
 
-🌍 Multilingual Interaction
-
+## 🌍 Multilingual Interaction
 * Supports both English and Hindi conversations
 * Natural language understanding
 * Human-like conversational responses
 
 ⸻
 
-🛒 Functional Ecommerce Platform
-
+## 🛒 Functional Ecommerce Platform
 * Product browsing
 * Wishlist management
 * Shopping cart system
@@ -48,8 +47,7 @@ The platform combines ecommerce functionality with conversational AI, voice inte
 
 ⸻
 
-📦 Smart Order Tracking
-
+## 📦 Smart Order Tracking
 Users can:
 
 * Track order status
@@ -59,8 +57,7 @@ Users can:
 
 ⸻
 
-💡 AI Commerce Features
-
+## 💡 AI Commerce Features
 * Smart recommendations
 * Conversational customer support
 * Offer suggestions
@@ -68,13 +65,13 @@ Users can:
 
 ⸻
 
-🖥️ Project Screenshots
+# 🖥️ Project Screenshots
 
-Homepage
+## Homepage
 
 <img width="1280" height="832" alt="Screenshot 2026-05-26 at 8 59 56 PM" src="https://github.com/user-attachments/assets/c1fd5b62-b563-459f-a310-f199faea5cff" />
 
-Product Showcase
+## Product Showcase
 
 <img width="1280" height="832" alt="Screenshot 2026-05-26 at 9 00 17 PM" src="https://github.com/user-attachments/assets/e1c65b4d-3ca3-4b77-9a6d-dea804266adc" />
 
@@ -82,52 +79,50 @@ Product Showcase
 
 <img width="1280" height="832" alt="Screenshot 2026-05-26 at 9 00 35 PM" src="https://github.com/user-attachments/assets/bc9e484f-99f5-4413-aa04-95076cbe39dd" />
 
-Wishlist & Cart
+## Wishlist & Cart
 
 <img width="1280" height="832" alt="Screenshot 2026-05-28 at 7 20 15 PM" src="https://github.com/user-attachments/assets/85827f92-8f01-4a59-8797-dc52d0614639" />
 
 <img width="1280" height="832" alt="Screenshot 2026-05-28 at 7 20 29 PM" src="https://github.com/user-attachments/assets/0e7dd158-a1a9-4f02-ae72-351cde7e2c5d" />
 
-Order Tracking
+## Order Tracking
 
 <img width="1280" height="832" alt="Screenshot 2026-05-28 at 7 20 41 PM" src="https://github.com/user-attachments/assets/e3d586ef-5c31-43ad-9cda-8f75f11ff84d" />
 <img width="1280" height="832" alt="Screenshot 2026-05-28 at 7 20 48 PM" src="https://github.com/user-attachments/assets/bb04bfb3-0595-422b-a6c9-1e96c455d789" />
-<img width="1280" height="832" alt="Screenshot 2026-05-28 at 7 20 59 PM" src="https://github.com/user-attachments/assets/eedeab57-3a5d-4faf-828a-fb31d868ebd4" />
+<img width="1280" height="832" alt="Screenshot 2026-05-28 at 7 20 59 PM" src="https://github.com/user-attachments/assets/5275bfae-f51e-4d42-9503-db69f070bec7" />
 
 
-AI Assistant
 
-<img width="1280" height="832" alt="Screenshot 2026-05-26 at 9 01 19 PM" src="https://github.com/user-attachments/assets/4801df1a-3b96-4076-b9c4-bad043f2c746" />">
+## AI Assistant
+
+<img width="1280" height="832" alt="Screenshot 2026-05-26 at 9 01 19 PM" src="https://github.com/user-attachments/assets/4801df1a-3b96-4076-b9c4-bad043f2c746" />
 
 <img width="396" height="633" alt="Screenshot 2026-05-28 at 7 21 32 PM" src="https://github.com/user-attachments/assets/dd9cb927-62b9-494a-b62a-5cfe3c41ebbf" />
 
 
-
+# 🎥 Demo Video
 https://github.com/user-attachments/assets/45668fbe-4e12-41b2-b4ad-8a75a59be1ee
 
 
 ⸻
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-Frontend
+## Frontend
 
 * React.js
 * JavaScript
 * HTML5
 * CSS3
 
-Backend
-
+## Backend
 * Node.js
 * Express.js
 
-Database
-
+## Database
 * MongoDB Atlas
 
-AI / Voice Layer
-
+## AI / Voice Layer
 * Python
 * Flask
 * Ollama
@@ -136,12 +131,10 @@ AI / Voice Layer
 
 ⸻
 
-🧠 System Architecture
-
+# 🧠 System Architecture
 Lensora uses a multi-service architecture:
 
-1. Frontend (React)
-
+## 1️⃣ Frontend (React)
 Handles:
 
 * UI rendering
@@ -152,8 +145,7 @@ Handles:
 
 ⸻
 
-2. Backend API (Node.js + Express)
-
+## 2️⃣ Backend API (Node.js + Express)
 Handles:
 
 * Authentication
@@ -164,8 +156,7 @@ Handles:
 
 ⸻
 
-3. AI Voice Server (Python + Flask)
-
+## 3️⃣ AI Voice Server (Python + Flask)
 Handles:
 
 * AI chatbot logic
@@ -176,8 +167,7 @@ Handles:
 
 ⸻
 
-🚀 Future Improvements
-
+# 🚀 Future Improvements
 * Real payment gateway integration
 * Real CRM integration
 * Better recommendation engine
@@ -189,8 +179,7 @@ Handles:
 
 ⸻
 
-🎯 Hackathon Vision
-
+# 🎯 Hackathon Vision
 The primary goal of Lensora was to demonstrate how conversational AI and voice interaction can improve ecommerce experiences.
 
 Rather than building only a chatbot, the project focused on creating a realistic commerce ecosystem where AI could:
@@ -203,8 +192,7 @@ Rather than building only a chatbot, the project focused on creating a realistic
 
 ⸻
 
-👥 Team
-
+# 👥 Team
 Developed during a hackathon by Team StackOverflowers 🚀
 
 Focused on:
@@ -216,6 +204,5 @@ Focused on:
 
 ⸻
 
-📌 Note
-
+# 📌 Note
 This project is a hackathon prototype created for demonstration and experimentation purposes. Some integrations use mock/demo implementations for showcasing AI-driven workflows.
