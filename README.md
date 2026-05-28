@@ -1,5 +1,5 @@
 # Lensora 👓🤖
-AI Powered Conversational Commerce Platform
+AI Voice Bot Integrated Conversational Commerce Platform
 
 ## 📌 Overview
 
